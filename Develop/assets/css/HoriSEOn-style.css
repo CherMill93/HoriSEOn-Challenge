@@ -123,6 +123,8 @@ p {
 }
 /* content section end*/
 
+
+/* footer*/
 .footer {
     padding: 30px;
     clear: both;
@@ -133,3 +135,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* footer end*/

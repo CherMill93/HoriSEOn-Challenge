@@ -4,10 +4,9 @@ HoriSEOn Accessibility updates
 Provided accessibility changes to a website that offers SEO optimization services. 
 Fixed page links.
 Corrected HTML syntax.
+Removed all DIV items and replaced them with ARTICLE or SECTION depending on location in HTML. 
 Added Alt text to aid with screen readers.
-Consolidated CSS and updated HTML with new Class IDs.
-Removed all DIV items and replaces them with ARTICE or SECTION depending on location in HTML. 
-
+Consolidated CSS and updated HTML with shared Class IDs for content and benfits sections.
 
 ## Built With
 * HTML

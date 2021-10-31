@@ -12,7 +12,7 @@ Added Alt text to aid with screen readers
 * CSS
 
 ## Website
-https://github.com/CherMill93/Challenge1-Accessibility
+https://chermill93.github.io/HoriSEOn-Challenge/#social-media-marketing
 
 ## Contribution
 Updated by Chris Miller
